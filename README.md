@@ -1,4 +1,4 @@
-# MPAZ Voxel Tools Debug
+# MPAZ Voxel Tools Debug For Godot 4
 
 Debug overlay for Voxel Tools development in Godot 4. Provides real-time performance metrics, player position, GPU information, and voxel statistics with color-coded performance indicators.
 
