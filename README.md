@@ -3,9 +3,9 @@
 Debug overlay for Voxel Tools development in Godot 4. Provides real-time performance metrics, player position, GPU information, and voxel statistics with color-coded performance indicators.
 
 ## Screenshots
-F2 to show/hide
+#### F2 to show/hide
 <img width="2047" height="1152" alt="image" src="https://github.com/user-attachments/assets/ae0f199c-ccf6-4d63-a234-58050ee2759f" />
-Configurable
+#### Configurable
 <img width="574" height="633" alt="image" src="https://github.com/user-attachments/assets/11682685-edec-4860-ac8f-0f30a264e143" />
 ---
 
